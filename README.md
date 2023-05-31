@@ -1,5 +1,5 @@
 # TrebleApp Japanese
-日本語をサポートしたPhh Treble Settingsをインストールします。
+Magiskモジュールで日本語をサポートしたPhh Treble Settingsをインストールします。
 
 「Phh Treble Settings」が「Phh Treble 設定」に変っていれば日本語での設定が可能になります。
 
