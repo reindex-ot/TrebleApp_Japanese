@@ -5,6 +5,7 @@ Magiskモジュールで日本語をサポートしたPhh Treble Settingsをイ�
 
 ## 既知の問題
 一部の項目が動作しない場合があります。
+
 一部のGSIでテキストの表示がおかしくなる不具合があります。
 
 ## Special Thanks
